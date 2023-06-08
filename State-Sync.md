@@ -40,6 +40,6 @@ systemctl restart umeed.service
 ```
 If everything was done correctly, the synchronization with the network will start, which may not happen immediately, so you need to wait for some time.
 
-You can also use an alternative method and use the [Snapshot]().
+You can also use an alternative method and use the [Snapshot](https://github.com/YTWOFUND/Umee-Service/blob/main/Snapshot.md).
 
 If you encounter any issues, please let us know at ytwofund@gmail.com.
